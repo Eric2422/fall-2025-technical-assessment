@@ -1,6 +1,6 @@
 # fall-2025-technical-assessment
 
-### Installations (using npm)
+## Installations (Using `npm`)
 
 ```shell
   npm install
